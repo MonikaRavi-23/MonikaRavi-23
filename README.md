@@ -183,15 +183,9 @@ https://github.com/MonikaRavi-23/market-basket-analysis-web-app
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
 
-<p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MonikaRavi-23&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
 
 ---
 
